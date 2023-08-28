@@ -16,8 +16,7 @@ An interactive visual game built with Pygame and OpenCV. Hover over the dots to 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/jacksongrove/image-reveal.git
-   ```
+   git clone https://github.com/jacksongrove/image-reveal.git```
 2. Navigate to the project directory:
    `cd image-reveal`
 3. Install the required Python packages:
