@@ -1,1 +1,3 @@
-
+pygame>=1.9.1
+numpy>=1.18.5
+OpenCV>=4.8.0
