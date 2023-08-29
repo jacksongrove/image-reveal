@@ -2,7 +2,7 @@
 
 An interactive visual game built with Pygame and OpenCV. Hover over the dots to gradually reveal a randomly selected image from the 'Image Bank'.
 
-![Game Screenshot](image-reveal/image-reveal-demo.gif) <!-- Replace 'path_to_screenshot.png' with the path to an actual screenshot of your game if you have one -->
+![Game Demo Gif](image-reveal-demo.gif) <!-- Replace 'path_to_screenshot.png' with the path to an actual screenshot of your game if you have one -->
 
 ## Features
 
